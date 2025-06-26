@@ -23,24 +23,31 @@
 
 ### A. Milestones and Issues
 
+#### Screenshot of Milestone with Closed Issues
 ![Milestone with Closed Issues](images/milestonewithclosedIssues.jpeg)
 
+#### Screenshot of Milestone with Open Issues
 ![Milestone with Open Issues](images/milestonewithopenIssues.jpeg)
 
+#### Screenshot of Milestone V1.0 Portfolio launch complete to 100%
 ![Screenshot of Milestone V1.0 Portfolio launch complete to 100%](images/milestonecomplete.jpeg)
 
 ### B. Project Board
 
+#### Screenshot of the project board
 ![Project Board](images/project-board.jpeg)
 
 ### C. Branching
 
+#### Screenshot of the branches list
 ![Branch List](images/branches.jpeg)
 
 ### D. Pull Requests
 
+#### Screenshot of the pull-requests
 ![Pull Requests](images/pull-request.jpeg)
 
 ### E. Merge Conflict Resolution
 
-- Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
+#### Screenshot of merging
+![Merging](images/merging.jpeg)
